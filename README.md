@@ -1,7 +1,7 @@
 # Wolf & Badger — ESG Performance Dashboard
 
 SAM 503 · ESG Analytics & Management · **Lab 4: Environmental Performance Dashboard**
-Illinois Institute of Technology, Stuart School of Business
+
 
 An interactive Streamlit dashboard that tracks the carbon, energy, water, waste, social and governance performance of
 **Wolf & Badger Ltd** (a UK online marketplace for independent fashion and lifestyle brands, and a Certified B Corp).
